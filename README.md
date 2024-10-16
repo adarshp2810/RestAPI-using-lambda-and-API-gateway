@@ -7,13 +7,13 @@ Key features of a REST API include:
 
 **Statelessness:** Each API call from the client contains all the necessary information, meaning the server does not need to remember any state between requests. This allows for scalability.
 
-**Resources:** REST APIs represent data as resources, identified by URLs. For example, an API endpoint like https://api.example.com/users/1 could represent a user with ID 1.
+**Resources:** REST APIs represent data as resources, identified by URLs. 
 
 **HTTP Methods:** REST APIs commonly use standard HTTP methods to perform operations on resources:
 
-GET: Retrieve data.
-POST: Create new data.
-PUT/PATCH: Update existing data.
+GET: Retrieve data. 
+POST: Create new data. 
+PUT/PATCH: Update existing data. 
 DELETE: Remove data.
 
 **Data format:** REST APIs often use JSON or XML to structure the data being sent between the client and the server.
